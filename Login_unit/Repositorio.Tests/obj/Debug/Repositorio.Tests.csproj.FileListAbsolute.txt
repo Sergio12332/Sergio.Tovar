@@ -1,0 +1,13 @@
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Repositorio.Tests.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Repositorio.Tests.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Login_unit.exe
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\MySql.Data.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Google.Protobuf.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\Login_unit.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\MySql.Data.xml
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\obj\Debug\Repositorio.Tests.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\obj\Debug\Repositorio.Tests.dll
+c:\users\sergio\documents\visual studio 2015\Projects\Login_unit\Repositorio.Tests\obj\Debug\Repositorio.Tests.pdb

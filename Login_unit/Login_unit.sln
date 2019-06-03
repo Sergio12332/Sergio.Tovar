@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_unit", "Login_unit\Login_unit.csproj", "{F46F4F99-1094-407B-AE37-864365163802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio.Tests", "Repositorio.Tests\Repositorio.Tests.csproj", "{F67938E4-3FDC-4264-BC2C-AB0D0A239622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46F4F99-1094-407B-AE37-864365163802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46F4F99-1094-407B-AE37-864365163802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46F4F99-1094-407B-AE37-864365163802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46F4F99-1094-407B-AE37-864365163802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67938E4-3FDC-4264-BC2C-AB0D0A239622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67938E4-3FDC-4264-BC2C-AB0D0A239622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67938E4-3FDC-4264-BC2C-AB0D0A239622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67938E4-3FDC-4264-BC2C-AB0D0A239622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
